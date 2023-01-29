@@ -1,0 +1,97 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="260.849"
+      height="53.969"
+      version="1.1"
+      viewBox="0 0 69.016 14.279"
+    >
+      <g transform="translate(-41.818 -109.699)">
+        <text
+          xmlSpace="preserve"
+          style={{ lineHeight: "1.25" }}
+          x="41.766"
+          y="117.74"
+          fill="green"
+          fillOpacity="1"
+          stroke="none"
+          strokeWidth="0.265"
+          fontFamily="sans-serif"
+          fontSize="10.583"
+          fontStyle="normal"
+          fontWeight="normal"
+        >
+          <tspan
+            x="41.766"
+            y="117.74"
+            fill="green"
+            fillOpacity="1"
+            strokeWidth="0.265"
+            fontWeight="bold"
+          >
+            Ajap{" "}
+          </tspan>
+        </text>
+        <text
+          xmlSpace="preserve"
+          style={{ lineHeight: "1.25" }}
+          x="71.379"
+          y="117.929"
+          fill="#6bc263"
+          fillOpacity="1"
+          stroke="none"
+          strokeWidth="0.265"
+          fontFamily="sans-serif"
+          fontSize="10.583"
+          fontStyle="normal"
+          fontWeight="normal"
+        >
+          <tspan
+            x="71.379"
+            y="117.929"
+            fill="#6bc263"
+            fillOpacity="1"
+            strokeWidth="0.265"
+            fontWeight="bold"
+          >
+            Sözlük
+          </tspan>
+        </text>
+        <text
+          xmlSpace="preserve"
+          style={{ lineHeight: "1.25" }}
+          x="77.241"
+          y="123.376"
+          fill="green"
+          fillOpacity="1"
+          stroke="none"
+          strokeWidth="0.265"
+          fontFamily="sans-serif"
+          fontSize="4.233"
+          fontStyle="normal"
+          fontWeight="normal"
+        >
+          <tspan
+            x="77.241"
+            y="123.376"
+            fill="green"
+            fillOpacity="1"
+            strokeWidth="0.265"
+            fontSize="4.233"
+            fontWeight="bold"
+          >
+            s ö z s i z d e
+          </tspan>
+        </text>
+        <path
+          fill="none"
+          stroke="#72c56b"
+          strokeDasharray="none"
+          strokeLinecap="butt"
+          strokeLinejoin="miter"
+          strokeMiterlimit="4"
+          strokeOpacity="0.66"
+          strokeWidth="1.289"
+          d="M42.163 123.363c7.993-2.507 12.457-.87 18.634-.215 8.568.91 14.573-1.927 14.595-1.991v0"
+        ></path>
+      </g>
+    </svg>
