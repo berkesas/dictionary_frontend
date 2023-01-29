@@ -13,7 +13,7 @@ function Icon() {
         <g
           fill="green"
           fillOpacity="1"
-          ariaLabel="Ajap"
+          aria-label="Ajap"
           style={{ lineHeight: "1.25" }}
           stroke="none"
           strokeWidth="0.265"
@@ -30,7 +30,7 @@ function Icon() {
         <g
           fill="#6bc263"
           fillOpacity="1"
-          ariaLabel="Sözlük"
+          aria-label="Sözlük"
           style={{ lineHeight: "1.25" }}
           stroke="none"
           strokeWidth="0.265"
@@ -49,7 +49,7 @@ function Icon() {
         <g
           fill="green"
           fillOpacity="1"
-          ariaLabel="s ö z s i z d e"
+          aria-label="s ö z s i z d e"
           style={{ lineHeight: "1.25" }}
           stroke="none"
           strokeWidth="0.265"
